@@ -1,4 +1,4 @@
-discord.gg/healthy
+https://discord.gg/healthy
 
 
 if vanity expire
